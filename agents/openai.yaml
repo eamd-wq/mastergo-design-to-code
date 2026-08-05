@@ -1,0 +1,4 @@
+interface:
+  display_name: "MasterGo 设计转代码"
+  short_description: "使用 MasterGo MCP 读取设计稿并实现可维护的通用界面"
+  default_prompt: "使用 $mastergo-design-to-code 读取 MasterGo 设计稿并在当前代码库中完成高保真实现。"
